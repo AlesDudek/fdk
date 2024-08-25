@@ -207,7 +207,6 @@ p{
 .overlay-panel button{
     border: none;
     background-color: transparent;
-    
 }
 .right-panel-active .overlay-container{
     transform: translateX(-150%);
